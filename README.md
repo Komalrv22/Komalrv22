@@ -1,3 +1,22 @@
+Hi, I’m Komal Rajore,a dedicated learner and tech data enthusiast. With a passion for coding in Python, I am currently engaged in several exciting projects that allow me to explore and expand my skills.
+
+About Me: I am passionate about analysis, data learning, and computer vision. Every day, I strive to learn new things and explore my interests further.
+
+My Skills and Expertise:
+
+Data Learning and Visualizations: Mastery in transforming raw data into insightful visual stories.
+
+Python Development: Proficient in developing data-driven applications and scripts.
+
+Tableau and Power BI: Skilled in creating interactive and dynamic dashboards for data visualization.
+
+Data Analytics: Expertise in analyzing complex datasets to uncover trends and insights.
+
+SQL: Proficient in writing complex queries for data extraction and manipulation.
+
+Jira Scrum: Experienced in agile project management and collaboration.
+
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/http://www.linkedin.com/in/komal-rajore-5513b5253) 
